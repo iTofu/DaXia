@@ -76,7 +76,7 @@ If you prefer not to use the aforementioned dependency manager, you can integrat
   import DaXia
   ```
 
-  Refer [Da](https://github.com/iTofu/Da) and [Xia](https://github.com/iTofu/Xia)
+  Then refer [Da](https://github.com/iTofu/Da) and [Xia](https://github.com/iTofu/Xia) :)
 
 * Resources:
 
@@ -115,4 +115,4 @@ If you prefer not to use the aforementioned dependency manager, you can integrat
 
 ## License
 
-Xia is released under the [MIT License](https://github.com/iTofu/DaXia/blob/master/LICENSE).
+DaXia is released under the [MIT License](https://github.com/iTofu/DaXia/blob/master/LICENSE).
