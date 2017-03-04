@@ -74,9 +74,9 @@ If you prefer not to use the aforementioned dependency manager, you can integrat
 
   ```swift
   import DaXia
-
-  // Refer [Da](https://github.com/iTofu/Da) and [Xia](https://github.com/iTofu/Xia)
   ```
+
+  Refer [Da](https://github.com/iTofu/Da) and [Xia](https://github.com/iTofu/Xia)
 
 * Resources:
 
